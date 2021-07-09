@@ -5,8 +5,9 @@ export default function Layout({ children }) {
     <div class="flex flex-row h-full">
       <nav class="bg-gray-900 w-20  justify-between flex flex-col ">
         <div class="mt-10 mb-10">
-          <a href="#">
+          <a href="!#">
             <img
+              alt="avator"
               src="https://randomuser.me/api/portraits/women/76.jpg"
               class="rounded-full w-10 h-10 mb-3 mx-auto"
             />
@@ -14,7 +15,7 @@ export default function Layout({ children }) {
           <div class="mt-10">
             <ul>
               <li class="mb-6">
-                <a href="#">
+                <a href="!#">
                   <span>
                     <svg
                       class="fill-current h-5 w-5 text-gray-300 mx-auto hover:text-green-500 "
@@ -33,7 +34,7 @@ export default function Layout({ children }) {
                 </a>
               </li>
               <li class="mb-6">
-                <a href="#">
+                <a href="!#">
                   <span>
                     <svg
                       class="fill-current h-5 w-5 mx-auto text-gray-300 hover:text-green-500"
@@ -49,7 +50,7 @@ export default function Layout({ children }) {
                 </a>
               </li>
               <li class="mb-6">
-                <a href="#">
+                <a href="!#">
                   <span>
                     <svg
                       class="fill-current h-5 w-5 text-gray-300 mx-auto hover:text-green-500"
@@ -65,7 +66,7 @@ export default function Layout({ children }) {
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="!#">
                   <span>
                     <svg
                       class="fill-current h-5 w-5 text-gray-300 mx-auto hover:text-green-500"
@@ -93,7 +94,7 @@ export default function Layout({ children }) {
           </div>
         </div>
         <div class="mb-4">
-          <a href="#">
+          <a href="!#">
             <span>
               <svg
                 class="fill-current h-5 w-5 text-gray-300 mx-auto hover:text-red-500"
